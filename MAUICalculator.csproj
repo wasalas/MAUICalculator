@@ -49,7 +49,15 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <PackageReference Include="Dangl.Calculator" Version="2.0.0" />
+	  <PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <MauiXaml Update="MVVM\CalcView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Resources\Styles\CalcDictionary.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
