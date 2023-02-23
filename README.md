@@ -11,5 +11,5 @@ Parte del curso : Desarrollo de App con .Net MAUI y Visual Studio 2022
 - Localidad          : Lima, Perú
 
 ![Capturas](https://github.com/wasalas/MAUICalculator/blob/master/Resources/Images/Capturas/01.png)
-!(https://github.com/wasalas/MAUICalculator/blob/master/Resources/Images/Capturas/02.png)
-!(https://github.com/wasalas/MAUICalculator/blob/master/Resources/Images/Capturas/03.png)
+![](https://github.com/wasalas/MAUICalculator/blob/master/Resources/Images/Capturas/02.png)
+![](https://github.com/wasalas/MAUICalculator/blob/master/Resources/Images/Capturas/03.png)
